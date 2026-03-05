@@ -1,0 +1,89 @@
+1️⃣ Root Directory
+
+The root directory / is the top of the Linux file system.
+
+All files and folders start from /.
+
+Example:
+
+/
+├── bin
+├── etc
+├── home
+├── var
+└── usr
+2️⃣ Important Linux Directories
+📁 /bin
+
+Contains basic commands used by all users.
+Example: ls, cp, mv, cat
+
+📁 /etc
+
+Stores configuration files for the system.
+
+📁 /home
+
+Contains user home directories.
+Example:
+
+/home/vishal
+📁 /root
+
+Home directory for the root (admin) user.
+
+📁 /usr
+
+Contains applications and program files.
+
+📁 /var
+
+Stores variable data like logs, cache, mail.
+
+📁 /tmp
+
+Temporary files stored here.
+
+📁 /dev
+
+Contains device files (hard disk, USB, etc.).
+
+📁 /boot
+
+Files needed for system booting.
+
+3️⃣ Simple Structure
+/
+├── bin
+├── boot
+├── dev
+├── etc
+├── home
+│   └── vishal
+├── root
+├── tmp
+├── usr
+└── var
+4️⃣ Example Path
+/home/vishal/file.txt
+
+Meaning:
+
+/ → root
+
+home → user directory
+
+vishal → user folder
+
+file.txt → file
+
+✅ Short Definition:
+Linux File System is the structure used by Linux to organize files and directories starting from the root /.
+
+If you want, I can also explain:
+
+Linux file system commands (ls, cd, pwd, mkdir)
+
+Linux file system types (ext4, xfs, btrfs)
+
+Linux directory structure with examples for DevOps interviews.
